@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on **NFT Minting Website and NFT Marketplace**
 
-- 🌱 I’m currently learning **Solidty, React, Hyperledger, Ethereum**
+- 🌱 I’m currently learning **Polygon, React, Hyperledger**
 
-- 👯 I’m looking to collaborate on **DApp Development**
+- 👯 I’m looking to collaborate on **NFT-Marketplace Project**
 
-- 💬 Ask me about **Blockchain Basics, Web Development**
+- 💬 Ask me about **Blockchain, Web3, Defi**
 
-- 📫 How to reach me **aniketchaudhary9838@gmail.com**
-
-- ⚡ Fun fact **My profile pic is great😝**
+- 📫 How to reach me **aniketchaudhary9838@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
