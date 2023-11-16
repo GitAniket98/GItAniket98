@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aniketch0w" target="blank"><img src="https://img.shields.io/twitter/follow/aniketch0w?logo=twitter&style=for-the-badge" alt="aniketch0w" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contract for Smart Wallet**
+- 🔭 I’m currently working on **NFT Minting Website and NFT Marketplace**
 
 - 🌱 I’m currently learning **Solidty, React, Hyperledger, Ethereum**
 
