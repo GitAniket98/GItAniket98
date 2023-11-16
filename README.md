@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitaniket98&label=Profile%20views&color=0e75b6&style=flat" alt="gitaniket98" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aniketch0w" target="blank"><img src="https://img.shields.io/twitter/follow/aniketch0w?logo=twitter&style=for-the-badge" alt="aniketch0w" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eth_ch0w" target="blank"><img src="https://img.shields.io/twitter/follow/eth_ch0w?logo=twitter&style=for-the-badge" alt="eth_ch0w" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Minting Website and NFT Marketplace**
 
