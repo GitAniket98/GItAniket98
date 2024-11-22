@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/eth_ch0w" target="blank"><img src="https://img.shields.io/twitter/follow/eth_ch0w?logo=twitter&style=for-the-badge" alt="eth_ch0w" /></a> </p>
 
-- 🔭 I’m currently working on **NFT Minting Website and NFT Marketplace**
+- 🔭 I’m currently working on **MultiSignature Wallet**
 
-- 🌱 I’m currently learning **Polygon, React, Hyperledger**
+- 🌱 I’m currently learning **Smart Contract Security & Auditing**
 
-- 👯 I’m looking to collaborate on **NFT-Marketplace Project**
+- 👯 I’m looking to collaborate on **Multisignature Wallet**
 
 - 💬 Ask me about **Blockchain, Web3, Defi**
 
