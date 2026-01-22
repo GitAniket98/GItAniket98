@@ -1,64 +1,85 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/5935d734e3df28babfeb4b68/1561568009603-83H993L929848Y1DWVD9/Thinkset_Blockchain.gif?format=2500w
-)
-<h1 align="center">Hi 👋, Welcome to Aniket's Github profile</h1>
-<h3 align="center">A passionate Blockchain Developer from India</h3>
-<img align="right" alt="Blockchain Working" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/5429f443d929b6f56e21792899af311a.gif">
+<!-- VERSION 1: NO HEADER (RECOMMENDED - CLEAN & MODERN) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitaniket98&label=Profile%20views&color=0e75b6&style=flat" alt="gitaniket98" /> </p>
+<h1 align="center">Hi 👋, I'm Aniket Chaudhary</h1>
+<h3 align="center">Blockchain Developer | Smart Contracts | Web3 Builder</h3>
 
-<p align="left"> <a href="https://twitter.com/eth_ch0w" target="blank"><img src="https://img.shields.io/twitter/follow/eth_ch0w?logo=twitter&style=for-the-badge" alt="eth_ch0w" /></a> </p>
-
-- 🔭 I’m currently working on **FileVault App**
-
-- 🌱 I’m currently learning **Smart Contract Security & Auditing**
-
-- 👯 I’m looking to collaborate on **FileVault App**
-
-- 💬 Ask me about **Blockchain, Web3, Defi**
-
-- 📫 How to reach me **aniketchaudhary9838@gmail.com**  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aniketch0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketch0w" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniket-chaudhary98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-chaudhary98" height="30" width="40" /></a>
-<a href="https://instagram.com/aniketch0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketch0w" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/aniketch0w" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/aniketch0w?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gitaniket98&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+<img align="right" alt="Blockchain Development" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+##  About Me
+
+I'm a passionate blockchain developer from India, specializing in building secure and scalable decentralized applications. My focus is on smart contract development, security auditing, and creating innovative Web3 solutions.
+
+- 🔭 Currently building **FileVault App** - A decentralized file storage solution
+- 🌱 Deep diving into **Smart Contract Security & Auditing**
+- 👯 Open to collaborate on **FileVault App** and other Web3 projects
+- 💬 Let's talk about **Blockchain, Web3, DeFi, Smart Contract Security**
+- 📫 Reach me at **aniketchaudhary9838@gmail.com**
+- 🎯 2025 Goal: Contribute to more open-source blockchain projects
+
+<br clear="right"/>
+
+##  Tech Stack
+
+### Blockchain & Web3
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDhMMTIgMTRMMjAgOEwxMiAyWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+</p>
 
-  <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/96736009?s=200&v=4" alt="foundry" width="40" height="40"/>
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
-  </a>
-  <a href="https://chain.link/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/chain_link/chain_link-icon.svg" alt="chainlink" width="40" height="40"/>
-  </a>
-  <a href="https://ipfs.tech/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" alt="ipfs" width="40" height="40"/>
-  </a>
+### Frontend & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitaniket98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Aniket's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitaniket98&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaniket98&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+##  Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/aniketch0w" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://linkedin.com/in/aniket-chaudhary98" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://instagram.com/aniketch0w" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:aniketchaudhary9838@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaniket98&show_icons=true&locale=en&layout=compact" alt="gitaniket98" /></p>
+---
+
+<p align="center">
+  <i>💡 "Building the decentralized future, one smart contract at a time"</i>
+</p>
