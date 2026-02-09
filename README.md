@@ -1,7 +1,7 @@
 <!-- VERSION 1: NO HEADER (RECOMMENDED - CLEAN & MODERN) -->
 
 <h1 align="center">Hi 👋, I'm Aniket Chaudhary</h1>
-<h3 align="center">Blockchain Developer | Smart Contracts | Web3 Builder</h3>
+<h3 align="center">Blockchain and Backend Developer | Smart Contracts | Web3 Builder</h3>
 
 <p align="center">
   <a href="https://twitter.com/aniketch0w" target="_blank">
